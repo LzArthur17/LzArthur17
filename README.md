@@ -136,7 +136,7 @@
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://LzArthur17.github.io/image/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=k4d57f1eyxsut3i879iqvmm9w" alt="Data Card for Spotify">
 </details>
 </div>
@@ -168,7 +168,7 @@
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
+[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/LzArthur17/LzArthur17/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
 
 </details>
 </div>
