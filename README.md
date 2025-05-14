@@ -171,13 +171,7 @@
 [Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/LzArthur17/LzArthur17/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
 
 </details>
-</div>
 
------
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/LzArthur17/LzArthur17/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
+----
 
-</details>
-</div>
-
-
-
+<img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=LzArthur17"/>
