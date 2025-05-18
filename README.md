@@ -51,7 +51,7 @@ Teste
 <td>
 <div align="justify">
 <p> 
-- :man_teacher: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação. Também sou <code>coordenador</code> da Agência Experimental de Software do ICEI - Instituto de Ciências Exatas e Informática.<br />
+- :office: Trabalho na area desenvolvimento de Atumações na <a href="https://dukar.com.br/" target="_blank">Dukar</a>
 - :school: Estou cursando <code>Cienencia da Computação</code> na universidade <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.<br/>
 
 </p>
