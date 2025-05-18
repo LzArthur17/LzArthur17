@@ -51,9 +51,18 @@ Teste
 <td>
 <div align="justify">
 <p> 
-- :office: Trabalho na area desenvolvimento de Atumações na <a href="https://dukar.com.br/" target="_blank">Dukar</a>
+- :office: Trabalho na area desenvolvimento de automações na <a href="https://dukar.com.br/" target="_blank">Dukar</a>.<br/>
 - :school: Estou cursando <code>Cienencia da Computação</code> na universidade <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.<br/>
-
+- :sunglasses: TESTE<br/>
+- :sunglasses: TESTE<br/>
+- :sunglasses: TESTE<br/>
+- :sunglasses: TESTE<br/>
+- :sunglasses: TESTE<br/>
+- :sunglasses: TESTE<br/>
+- :sunglasses: TESTE<br/>
+- :sunglasses: TESTE<br/>
+- :sunglasses: TESTE<br/>
+- :sunglasses: TESTE<br/>
 </p>
 </div>
 </td>
