@@ -1,11 +1,11 @@
 -----
-
+<!-- Baner -->
 <div>
   <img align="center" alt="Header" src="https://raw.githubusercontent.com/LzArthur17/LzArthur17/main/img/header.png?raw=true"/>
 </div>
 
 -----
-
+<!-- Icones Contatos -->
 <div align="center">
  <table>
   <tr>
@@ -25,12 +25,13 @@
  </table>
 </div>
 
+<!-- Apresentação rapida -->
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Arthur</code>, tenho 20 anos, moro em BH e sou programador desde os 17 anos de idade. Atualmente sou estou cursando <code>Ciencia da computação</code> na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.</i> :man_teacher:<br />
 </div>
 
 -----
-
+<!-- Sobre min -->
 <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
