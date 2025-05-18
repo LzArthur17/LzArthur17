@@ -54,7 +54,7 @@ Teste
 - :office: Trabalho na area desenvolvimento de automações na <a href="https://dukar.com.br/" target="_blank">Dukar</a>.<br/>
 - :school: Estou cursando <code>Cienencia da Computação</code> na universidade <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>.<br/>
 - :atom: Sou entusiasta da linguagem Java :coffee:.<br/>
-- :soccer: Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>.:fox_face:<br/>
+- :soccer: Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>:fox_face:<br />
 - :sunglasses: TESTE<br/>
 - :sunglasses: TESTE<br/>
 - :sunglasses: TESTE<br/>
