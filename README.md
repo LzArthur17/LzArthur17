@@ -13,7 +13,7 @@
 </tr> 
   
 <tr>
-<td><a href="https://github.com/LzArthur17" target="_blank"><img src="https://LzArthur17.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a></td>
+<td><a href="https://github.com/LzArthur17" target="_blank"><img src="https://raw.githubusercontent.com/LzArthur17/LzArthur17/main/img/github.png?raw=true" width="50px" height="50px"/></a></td>
   
 <td><a href="mailto:lazarinogomes91@gmail.com" target="_blank"><img src="https://LzArthur17.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a></td>
 
