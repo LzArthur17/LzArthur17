@@ -1,7 +1,7 @@
 -----
 
 <div>
-  <img align="center" alt="Header" src="https://LzArthur17.LzArthur17/img/header.png?raw=true"/>
+  <img align="center" alt="Header" src="https://LzArthur17/img/header.png?raw=true"/>
 </div>
 
 -----
