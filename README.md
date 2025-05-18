@@ -40,10 +40,6 @@ Doutor (2017-2020) e mestre (2014-2015) em <a href="https://www.fumec.br/pos-gra
 
 -----
 
-
-
-
-
 <div>
 
 <img height="20" alt="GIF" src="https://LzArthur17.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
