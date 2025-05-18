@@ -68,7 +68,7 @@ Teste
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://raw.githubusercontent.com/LzArthur17/LzArthur17/main/img/dev.gif?raw=true" width="340px" height="650px"/>
+<img alt="GIF" src="https://raw.githubusercontent.com/LzArthur17/LzArthur17/main/img/dev.gif?raw=true" width="340px" height="550px"/>
 </div>
 </td>
 </tr>
