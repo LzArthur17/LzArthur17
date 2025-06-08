@@ -111,7 +111,7 @@ Teste
 <table>
 <tr>
  <td align="center">:octocat: <a href="https://www.githubwrapped.io/LzArthur17" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: <a href="https://wakatime.com/@aramuni">WakaTime</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@LzArthur">WakaTime</a></td>
 </tr>
 <tr>
 <td>
@@ -176,7 +176,7 @@ Teste
 
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://LzArthur17.github.io/image/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://LzArthur17.github.io/image/spotify.gif?raw=true"/> Arthur Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=k4d57f1eyxsut3i879iqvmm9w" alt="Data Card for Spotify">
 </details>
 </div>
