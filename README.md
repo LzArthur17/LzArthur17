@@ -118,7 +118,7 @@ Teste
 <img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/LzArthur17/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
 </td>
 <td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=LzArthur17=dark&layout=compact"/>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=LzArthur=dark&layout=compact"/>
 </td>
 </tr>
 <tr>
