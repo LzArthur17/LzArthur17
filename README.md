@@ -63,7 +63,7 @@
 - :soccer: Sou cruzeirense, torço para o <a href="https://www.cruzeiro.com.br/" target="_blank">cabuloso</a>:fox_face:.<br/>
 - :video_game: Gosto muito de jogos competitivos.<br/>
 - :running: Gosto de correr.<br/>
-- :sunglasses: Aspitante a musculação <br/>
+- :boom: Aspirante a musculação <br/>
 - :sunglasses: TESTE<br/>
 - :sunglasses: TESTE<br/>
 - :sunglasses: TESTE<br/>
