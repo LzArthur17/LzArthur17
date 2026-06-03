@@ -16,7 +16,7 @@
    <td><a href="mailto:lazarinogomes91@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/LzArthur17/LzArthur17/main/img/gmail.png?raw=true" width="50px" height="50px"/></a></td>
    <td><a href="https://wa.me/5531994206526" target="_blank"><img src="https://raw.githubusercontent.com/LzArthur17/LzArthur17/main/img/whats.png?raw=true" width="50px" height="50px"/></a></td>
    <td><a href="https://www.instagram.com/lz.arthur/" target="_blank"><img src="https://raw.githubusercontent.com/LzArthur17/LzArthur17/main/img/insta.png?raw=true" width="50px" height="50px"/></a></td> 
-   <td><a href="https://www.linkedin.com/in/arthurlazarino/" target="_blank"><img src="https://raw.githubusercontent.com/LzArthur17/LzArthur17/main/img/linkedin.gif?raw=true" width="50px" height="50px"/></a></td>
+   <td><a href="https://www.linkedin.com/in/arthur-lazarino-6622472a4/" target="_blank"><img src="https://raw.githubusercontent.com/LzArthur17/LzArthur17/main/img/linkedin.gif?raw=true" width="50px" height="50px"/></a></td>
    <td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://raw.githubusercontent.com/LzArthur17/LzArthur17/main/img/discord.png?raw=true" width="50px" height="50px"/></a></td>
   </tr>
   <tr>
