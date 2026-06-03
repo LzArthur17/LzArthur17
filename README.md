@@ -35,9 +35,13 @@
 <img height="20" alt="GIF" src="https://raw.githubusercontent.com/LzArthur17/LzArthur17/main/img/soulgem.gif?raw=true"/>Sobre mim:
 
 <div align="justify">
-<p>Arthur é um profissional da área de tecnologia com experiência prática em automação de processos, desenvolvimento de sistemas e suporte técnico. Atua principalmente com Python, Selenium, APIs, integração de sistemas e automações voltadas para rotinas empresariais, incluindo robôs de consulta, processamento de informações e automação web. Também possui conhecimentos em infraestrutura, redes, Git, bancos de dados SQL e administração de ambientes Windows.</p>
-<p>Além da parte técnica, Arthur demonstra perfil analítico e foco em resolução de problemas, trabalhando frequentemente com depuração de erros, otimização de processos e criação de soluções para aumentar a produtividade das equipes. Atualmente, também desenvolve projetos próprios para fortalecer seu portfólio, incluindo aplicações web com frontend em React, backend em Node.js/FastAPI e serviços de monitoramento em Python ou Go utilizando Docker.</p>
-<p>É uma pessoa curiosa, prática e orientada a resultados, sempre buscando aprender novas tecnologias e encontrar maneiras mais eficientes de automatizar tarefas e melhorar sistemas já existentes.</p>
+<p>Meu nome é Arthur e atuo na área de Tecnologia da Informação, com experiência em desenvolvimento de sistemas, automação de processos e suporte técnico. Tenho conhecimento em Python, JavaScript, APIs, bancos de dados SQL, Git e tecnologias voltadas para aplicações web, além de experiência com automações utilizando Selenium e integração entre sistemas.</p>
+  
+<p>No meu dia a dia, gosto de identificar problemas, analisar cenários e desenvolver soluções que tornem os processos mais eficientes. Tenho facilidade para aprender novas tecnologias e estou sempre buscando aprimorar meus conhecimentos, seja em desenvolvimento de software, infraestrutura, redes ou administração de ambientes corporativos.</p>
+
+<p>Atualmente, também dedico parte do meu tempo ao desenvolvimento de projetos próprios, com foco em aplicações web modernas, arquiteturas escaláveis e automação de tarefas. Acredito que a tecnologia deve ser utilizada para simplificar processos, aumentar a produtividade e gerar resultados concretos para pessoas e empresas.</p>
+  
+<p>Sou uma pessoa comprometida, organizada e orientada à resolução de problemas, características que me ajudam a atuar de forma eficiente tanto em atividades técnicas quanto em projetos que exigem planejamento, responsabilidade e trabalho em equipe.</p>
 </div>
 
 -----
